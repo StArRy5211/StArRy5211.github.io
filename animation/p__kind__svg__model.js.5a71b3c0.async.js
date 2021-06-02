@@ -1,0 +1,1 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([[13],{Spnq:function(e,a,n){"use strict";n.r(a);var s=n("mK77"),r=n.n(s);a["default"]={namespace:"svg",state:{},reducers:{save(e,a){return r()({},e,a.payload)},clear(){return{}}},effects:{}}}}]);

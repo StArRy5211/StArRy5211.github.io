@@ -1,0 +1,1 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([[12],{QBo1:function(e,a,t){"use strict";t.r(a);var n=t("mK77"),r=t.n(n);a["default"]={namespace:"lottie",state:{},reducers:{save(e,a){return r()({},e,a.payload)},clear(){return{}}},effects:{}}}}]);

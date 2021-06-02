@@ -1,0 +1,1 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([[10],{XFsv:function(e,n,a){"use strict";a.r(n);var s=a("mK77"),o=a.n(s);a("Ico4"),a("UWy3"),a("XLjY"),a("a0Mk");"undefined"==typeof window.HC_LOADING_QUEUE&&(window.HC_LOADING_QUEUE=[]);n["default"]={namespace:"gif",state:{},reducers:{save(e,n){return o()({},e,n.payload)},clear(){return{}}},effects:{}}}}]);

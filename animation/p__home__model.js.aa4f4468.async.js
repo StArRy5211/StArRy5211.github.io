@@ -1,0 +1,1 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([[5],{FtWY:function(e,a,s){"use strict";s.r(a);var t=s("mK77"),r=s.n(t);a["default"]={namespace:"home",state:{list:[]},reducers:{save(e,a){var s=a.payload;return r()({},e,s)},saveList(e,a){var s=a.payload;return r()({},e,{list:s})},clear(){return{list:[]}}},effects:{}}}}]);

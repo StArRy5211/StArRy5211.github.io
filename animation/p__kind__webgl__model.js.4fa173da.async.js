@@ -1,0 +1,1 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([[15],{"Y+k5":function(e,a,n){"use strict";n.r(a);var r=n("mK77"),s=n.n(r);a["default"]={namespace:"webgl",state:{},reducers:{save(e,a){return s()({},e,a.payload)},clear(){return{}}},effects:{}}}}]);

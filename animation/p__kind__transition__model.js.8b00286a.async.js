@@ -1,0 +1,1 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([[14],{"J9c+":function(e,a,n){"use strict";n.r(a);var r=n("mK77"),s=n.n(r);a["default"]={namespace:"transition",state:{},reducers:{save(e,a){return s()({},e,a.payload)},clear(){return{}}},effects:{}}}}]);

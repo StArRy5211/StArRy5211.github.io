@@ -1,0 +1,1 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([[8],{FrmM:function(e,a,n){"use strict";n.r(a);var r=n("mK77"),s=n.n(r);a["default"]={namespace:"animation",state:{},reducers:{save(e,a){return s()({},e,a.payload)},clear(){return{}}},effects:{}}}}]);
